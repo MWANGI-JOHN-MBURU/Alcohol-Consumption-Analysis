@@ -28,10 +28,9 @@ EDA involved exploring data to answer key questions, such as:
 - Underpenetrated Markets – Areas with rising beer/wine consumption but low 
 - Urban centers with higher disposable income.
 - Consumption Trends Over Time: Identifying how alcohol consumption rates have increased or decreased in response to economic conditions, cultural shifts, or government policies.
-- Beverage Preferences: Analyzing which types of alcohol are most consumed and how preferences have changed over the years.
-
-
-![Screenshot 2025-04-01 164939](https://github.com/user-attachments/assets/63cb9d50-beb2-4e59-a4f9-3ed45a5b85e5)
+- Beverage Preferences: Analyzing which types of alcohol are most consumed and how preferences have changed over the year
+![Screenshot 2025-04-02 134913](https://github.com/user-attachments/assets/b326429b-6170-4950-86e0-7ab91a237a84)
+![Screenshot 2025-04-02 134929](https://github.com/user-attachments/assets/fc556a15-e5b0-4489-92c8-51627b8a75a1)
 
 
 ## Results/Findings
