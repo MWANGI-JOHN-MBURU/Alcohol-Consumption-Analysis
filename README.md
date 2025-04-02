@@ -44,5 +44,6 @@ EDA involved exploring data to answer key questions, such as:
 ## Recommendations
 1. beer and vodka markets have the highest demand; therefore, production and marketing should focus on these categories.
 2. Regional preferences should guide product distribution—for example, more champagne in urban areas and more vodka in high-consumption regions.
+
    
   
