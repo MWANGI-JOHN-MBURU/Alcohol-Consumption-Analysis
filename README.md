@@ -7,6 +7,7 @@
 ### Project Overview
 This project analyzes alcohol consumption trends across Russian regions (1998–2016) to identify 10 key regions that should be prioritized for targeted marketing promotions.
 
+
 ### Data Sources
 Consumption data: Primary data used for this project is the alacohol 'consumption.csv' file,containing detailed information about alcohol consumption in russia.
 ### Tools
@@ -29,6 +30,10 @@ EDA involved exploring data to answer key questions, such as:
 - Consumption Trends Over Time: Identifying how alcohol consumption rates have increased or decreased in response to economic conditions, cultural shifts, or government policies.
 - Beverage Preferences: Analyzing which types of alcohol are most consumed and how preferences have changed over the years.
 
+
+![Screenshot 2025-04-01 164939](https://github.com/user-attachments/assets/63cb9d50-beb2-4e59-a4f9-3ed45a5b85e5)
+
+
 ## Results/Findings
 
 - Beer and vodka dominate the market, highlighting demand for affordable, high-volume alcoholic beverages.
@@ -39,6 +44,5 @@ EDA involved exploring data to answer key questions, such as:
 ## Recommendations
 1. beer and vodka markets have the highest demand; therefore, production and marketing should focus on these categories.
 2. Regional preferences should guide product distribution—for example, more champagne in urban areas and more vodka in high-consumption regions.
-3. 
-
+   
   
